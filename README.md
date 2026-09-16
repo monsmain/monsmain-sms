@@ -25,7 +25,7 @@
         <tbody align="center">
             <tr>
                 <td>
-                    <a href="https://github.com/monsmain/sms-bomber-iran/releases/latest"><img src="https://img.shields.io/badge/Android-APK Universal-0d7365.svg?logo=android"></a>
+                    <a href="https://t.me/monsmain/263"><img src="https://img.shields.io/badge/Android-APK Universal-0d7365.svg?logo=android"></a>
                 </td>
                 <td>7+</td>
             </tr>
