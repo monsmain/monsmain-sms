@@ -1,26 +1,51 @@
 <div dir="rtl" align="right">
 
 # 🚀 اس ام اس بمبر قدرتمند برای شماره‌های ایرانی  
-**💥 حملـه‌ای سریع، قوی و کاملاً رایگان**  
 
+
+### **توضیح:**
 اگر به دنبال یک ابزار بمبر پیامک برای خطوط ایرانی هستی، این برنامه مخصوص تو ساخته شده است.  
+ اس ام اس بمبر ابزاری است که برای ارسال تعداد زیادی پیامک به یک شماره تلفن در مدت زمان کوتاه استفاده می شود، به طوری که تلفن به دلیل حجم بالای پیام های دریافتی عملاً از کار می افتد و استفاده از آن مختل می شود. 
+**💥 حملـه‌ای سریع، قوی و کاملاً رایگان**  
+## ویژگی‌ها💫
 
-## 📥 دانلود و اطلاعات بیشتر  
-برای دسترسی به آخرین نسخه و دریافت لینک مستقیم دانلود، به کانال تلگرام ما بپیوندید:  
+- **کاربرپسند:** رابط کاربری ساده و آسان
+- **ارسال درخواست:** دارای 156 API برای پیام و 6 تا برای تماس💣🔥
+- **تنظیم سرعت:** دارای 2 حالت سرعت( تند و متوسط )🛸🚀
 
-<p align="center">
-  <a href="https://t.me/monsmain/234">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
+## 📥 دانلود  
 
-## ⚡ نصب خودکار در Termux  
-اگر از Termux استفاده می‌کنید، کافی است دستور زیر را اجرا کنید تا مستقیماً به صفحه پست مورد نظر هدایت شوید و فایل را دریافت کنید:
 
-```
-am start -a android.intent.action.VIEW -d "tg://resolve?domain=monsmain&post=234"
-```
+<div align="center">
+    <table>
+        <thead align="center">
+            <tr>
+                <th>سیستم‌عامل / معماری</th>
+                <th>سازگاری</th>
+            </tr>
+        </thead>
+        <tbody align="center">
+            <tr>
+                <td>
+                    <a href="https://github.com/monsmain/sms-bomber-iran/releases/latest"><img src="https://img.shields.io/badge/Android-APK Universal-0d7365.svg?logo=android"></a>
+                </td>
+                <td>7+</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+## امنیت🔒
+![[https://www.virustotal.com/gui/file/2a4011cb72d1ea6845de8e0a999fb0dcd782f10aa3606fecb699d64ff29af909/detection]](images/virustotal.jpg)
+
 ## ❤️ حمایت از ما
 اگر از این ابزار راضی بودی، می‌توانی با یک دونیت کوچیک از ما حمایت کنی تا بتونیم ابزارهای بیشتری بسازیم:
 
 <p align="center"> <a href="https://monsmain.github.io/donate/"> <img src="https://img.shields.io/badge/Donate-E5322D?style=for-the-badge&logo=ilovepdf&logoColor=white" alt="Donate" /> </a> </p></div>
+
+
+## مشارکت
+ما همیشه به دنبال بهبود ابزار هستیم! اگر ایده‌ای دارید یا باگ پیدا کردید، لطفاً یک [Issue](https://github.com/monsmain/sms-bomber-iran/issues/new/choose) جدید ایجاد کنید یا یک [Pull Request](https://github.com/monsmain/sms-bomber-iran/pulls) ارسال کنید.
+## سلب مسئولیت
+* توسعه‌دهنده این برنامه **هیچ‌گونه مسئولیتی** در قبال نحوه استفاده کاربران از آن بر عهده ندارد. اینکه کاربر چگونه از این ابزار استفاده می‌کند و آیا این استفاده قانونی یا اخلاقی است، **تماماً بر عهده خود کاربر است.**
+* با دانلود، یا استفاده از این برنامه ، شما صراحتاً با تمامی موارد ذکر شده در این سلب مسئولیت موافقت می‌نمایید.
