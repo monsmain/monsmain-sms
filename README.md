@@ -8,7 +8,7 @@
 ## ویژگی‌ها💫
 
 - **کاربرپسند:** رابط کاربری ساده و آسان
-- **ارسال درخواست:** دارای 156 API برای پیام و 6 تا برای تماس💣🔥
+- **ارسال درخواست:** دارای 200 API برای پیام و 6 تا برای تماس💣🔥
 - **تنظیم سرعت:** دارای 2 حالت سرعت( تند و متوسط )🛸🚀
 
 ## 📥 دانلود  
@@ -25,7 +25,7 @@
         <tbody align="center">
             <tr>
                 <td>
-                    <a href="https://t.me/monsmain/263"><img src="https://img.shields.io/badge/Android-APK Universal-0d7365.svg?logo=android"></a>
+                    <a href="https://t.me/monsmain/276"><img src="https://img.shields.io/badge/Android-APK Universal-0d7365.svg?logo=android"></a>
                 </td>
                 <td>7+</td>
             </tr>
