@@ -34,7 +34,7 @@
 </div>
 
 ## امنیت🔒
-![[https://www.virustotal.com/gui/file/2a4011cb72d1ea6845de8e0a999fb0dcd782f10aa3606fecb699d64ff29af909/detection]](images/virustotal.jpg)
+![[https://www.virustotal.com/gui/file/901c6edfd47d0c6963fd43889d0b08f475a8bb7875d075680ef884964ba54f66/detection]](images/virustotal.jpg)
 
 ## ❤️ حمایت از ما
 اگر از این ابزار راضی بودی، می‌توانی با یک دونیت کوچیک از ما حمایت کنی تا بتونیم ابزارهای بیشتری بسازیم:
